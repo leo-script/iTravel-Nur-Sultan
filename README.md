@@ -1,2 +1,2 @@
 # iTravel-Nur-Sultan
-iTravel Nur-Sultan bot
+iTravel Nur-Sultan telegram bot
